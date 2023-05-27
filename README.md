@@ -25,12 +25,14 @@ The WHED.net Scraper uses Selenium WebDriver to navigate the website, interact w
 1. Install the required dependencies using pip:
 ```bash
 pip install Selenium pandas openpyxl
+```
 
 2. Download the WHED.net Scraper code from this repository.
 
 3. Run the script:
 ```bash
 python script.py
+```
 
 4. The scraped university data will be saved to an Excel file named `university_data.xlsx`.
 
